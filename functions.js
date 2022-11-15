@@ -7,3 +7,6 @@ console.log(cowsay.say({
     e : "oO",
     T : "U "
 }));
+var a = math.random()
+console.log (a)
+console.log (math.floor(a*10))
